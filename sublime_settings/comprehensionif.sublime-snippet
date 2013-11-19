@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+[${1:result}for ${2:variable} in ${3:iterate} if ${3:expression}]
+]]></content>
+	<tabTrigger>comprehensionif</tabTrigger>
+	<scope>source.python</scope>
+</snippet>
