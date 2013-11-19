@@ -1,2 +1,2 @@
-A repo of my Sublime Text preferences.
-Feel free to copy it...
+##Utilities
+"Depósito de gambiarras"
