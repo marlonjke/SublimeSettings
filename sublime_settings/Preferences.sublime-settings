@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
+	"font_size": 9,
+        "translate_tabs_to_spaces": true,
+        "highlight_line": true,
+        "save_on_focus_lost": true,
+        "bold_folder_labels": true,
+        "ignored_packages": [vintage]
+}
