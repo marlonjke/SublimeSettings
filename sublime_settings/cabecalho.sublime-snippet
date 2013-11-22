@@ -2,6 +2,8 @@
 	<content><![CDATA[
 #!/usr/bin/env python
 #-*- coding:utf-8 -*-
+"""${1:bla bla bla}
+"""
 ]]></content>
 	<tabTrigger>cab</tabTrigger>
 	<scope>source.python</scope>
