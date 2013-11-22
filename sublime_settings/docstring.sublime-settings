@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+    """${1:One liner description}
+
+    Parameters
+    ----------
+    ${2}
+    Returns
+    -------
+    ${3}
+    """
+    ]]></content>
+    <tabTrigger>docstring</tabTrigger>
+    <scope>source.python</scope>
+    <description>Adds a docstring skeleton to function</description>
+</snippet>
