@@ -1,9 +1,67 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
-	"font_size": 9,
-        "translate_tabs_to_spaces": true,
-        "highlight_line": true,
-        "save_on_focus_lost": true,
-        "bold_folder_labels": true,
-        "ignored_packages": [vintage]
+    "color_scheme": "Packages/Perv - Color Scheme/Perv Orange.tmTheme",
+    "font_face": "Ubuntu Mono",
+    "font_options": ["subpixel_antialias", "no_bold"],
+    "font_size": 12,
+    "line_padding_bottom": 1,
+    "line_padding_top": 1,
+    "caret_style": "solid",
+    "wide_caret": "true",
+    "highlight_line": false,
+    "highlight_modified_tabs": true,
+    "always_show_minimap_viewport": true,
+	"auto_complete_delay": 500,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.python - string - comment - constant.numeric"
+		}
+	],
+	"bold_folder_labels": true,
+    "show_full_path": "true",
+	"detect_indentation": false,
+	"minimap_border": true,
+	"enable_telemetry": false,
+	"ensure_newline_at_eof_on_save": true,
+    "folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".bundle",
+		".ropeproject",
+		".sass-cache",
+		".settings",
+		"__pycache__"
+	],
+        "file_exclude_patterns":
+    [
+        ".DS_Store",
+        "*.pid",
+        "*.pyc"
+    ],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active",
+		"draw_normal"
+	],
+    "indent_to_bracket": true,
+	"preview_on_click": false,
+	"rulers":[79],
+	"shift_tab_unindent": true,
+	"show_panel_on_build": false,
+	"soda_classic_tabs": true,
+	"soda_folder_icons": false,
+	"tab_size": 4,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"wrap_width": 80
 }
